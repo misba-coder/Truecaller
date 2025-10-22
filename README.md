@@ -18,7 +18,7 @@
 
 ## 📱 Overview
 This is a **CRUD-based Android application developed** in Kotlin, integrated with Firebase Realtime Database.
-The app supports both **Admin and Client** modules — allowing Admins to manage data (Create, Read, Update, Delete) and Clients to view or modify their personal entries.
+The app supports both **Admin and Client** modules — allowing Admins to manage data (Create, Update, Delete) and Clients to view their personal entries.
 
 The goal of this project was to understand **Firebase Realtime Database operations**, **role-based access**, and **clean app architecture** while developing a functional Android app from scratch.
 
