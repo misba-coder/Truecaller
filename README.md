@@ -48,13 +48,13 @@ The goal of this project was to understand **Firebase Realtime Database operatio
 
 ## 🔑 Key Functionalities
  **👩‍💼 Admin Side:**
- -Add, update, or delete client data
- -View all client entries in real-time
- -Manage database efficiently
+ - Add, update, or delete client data
+ - View all client entries in real-time
+ - Manage database efficiently
  
  **👩‍💻 Client Side:**
- -View personal data
- -Auto-sync with Firebase
+ - View personal data
+ - Auto-sync with Firebase
 
 ---
 ## 💡 Learning Outcomes
