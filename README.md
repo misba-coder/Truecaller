@@ -2,7 +2,9 @@
 
 <p align="center">CRUD in Firebase Realtime Database in Android Studio | Admin-Client Module</p>
 
-
+<p align="center">
+  <em>Built with the tools and technologies:</em>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
@@ -69,3 +71,10 @@ Through this project, I learned:
 - How to integrate Firebase Realtime Database with Kotlin
 - CRUD operation handling using Firebase references
 - Structuring Admin-Client based Android applications
+---
+## Developer
+**Misba Khatoon**
+*[Android Developer]* | MCA Graduate
+
+📧 Email: [Email](misbakhatoon910@gmail.com) 
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/misba-khatoon-5067a3302) 
