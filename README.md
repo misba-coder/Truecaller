@@ -23,6 +23,13 @@ The app supports both **Admin and Client** modules — allowing Admins to manage
 The goal of this project was to understand **Firebase Realtime Database operations**, **role-based access**, and **clean app architecture** while developing a functional Android app from scratch.
 
 ---
+## 🖼 Screenshots
+
+<p align="center">
+  <img src="https://github.com/misba-coder/Truecaller/blob/main/assets/truecaller.gif" alt ="Mobile Screenshot" width="350"/>
+</p>
+
+---
 ## 🚀 Features
 - **Admin module:** - Create new entries, view all client entries, update them, delete them
 
